@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Labeh-Max
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning Java swing.
-- 💞️ I’m looking to collaborate on any Java swing application.
+- 💞️ I’m looking to collaborate on any Java swing applications.
 - 📫 How to reach me: Labehjude@yahoo.com
 
 <!---
